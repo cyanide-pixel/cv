@@ -1,0 +1,23 @@
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+
+  border-width: 7px;
+  width: 7%;
+}
+h3 {
+  color: #ffb385;
+  font-style: italic;
+}
+h1 {
+  color: #66BFBF;
+  font-family: fantasy;
+}
+h2 {
+  color: #323232;
+  font-family: cursive;
+}
